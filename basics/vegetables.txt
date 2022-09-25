@@ -1,0 +1,5 @@
+cucumber
+tomato
+onion
+garlic
+okra
